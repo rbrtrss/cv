@@ -6,55 +6,56 @@
 
 ## Studies
 
-### Masters in Applied Chemistry, Materials Orientation 
-- Graduated March 2012
-- Postgrado Interdisciplianrion en Química Aplicada
-- Universidad de Los Andes
-- Mérida-Venezuela
+### Phd in Chemistry 
+Started 08/2019  
+Dcotorado en Química  
+Facultad de Ciencias Exactas  
+Universidad Nacional de La Plata  
+La Plata-Argentina  
 
 ### Masters in Applied Chemistry, Materials Orientation 
-- Graduated March 2012
-- Postgrado Interdisciplianrion en Química Aplicada
-- Universidad de Los Andes
-- Mérida-Venezuela
+Graduated March 2012  
+Postgrado Interdisciplianrion en Química Aplicada  
+Universidad de Los Andes  
+Mérida-Venezuela  
 
 ### Bachelor of Chemistry 
-- Graduated november 2005
-- Cum Laude Distinction
-- Universidad de Los Andes
-- Mérida-Venezuela
+Graduated november 2005  
+Cum Laude Distinction  
+Universidad de Los Andes  
+Mérida-Venezuela  
 
 ## Teaching Experience
-### Teaching Assistant (Since 09/2021)
-- Optics and Electromagnetism
-- Facultad de Ingeniería, Escuela Básica
-- National University of La Plata
-- La Plata-Argentina
+### Teaching Assistant 09/2021
+Optics and Electromagnetism  
+Facultad de Ingeniería, Escuela Básica  
+Universidad Nacional de La Plata  
+La Plata-Argentina  
 
-### Assistant Professor  (Since 02/2015)
-- Physical Chemistry
-- Department of Chemistry
-- Faculty of Sciences
-- University of Los Andes
-- Mérida-Venezuela
+### Assistant Professor 02/2015
+Physical Chemistry  
+Department of Chemistry  
+Faculty of Sciences  
+University of Los Andes  
+Mérida-Venezuela  
 
-### Assistant Professor (Between 11/2012 and 02/2015)
-- General Chemistry
-- Facultad de Ingeniería, Escuela Básica
-- Universisdad de Los Andes
-- Mérida-Venezuela
+### Assistant Professor 11/2012-02/2015
+General Chemistry  
+Facultad de Ingeniería, Escuela Básica  
+Universisdad de Los Andes  
+Mérida-Venezuela  
 
 ## Scholarships
 
 ### Beca finalización Conicet (Since 04/2023)
-- CEQUINOR/INIFTA
-- Univesidad Nacional de La Plata
-- La Plata-Argentina
+CEQUINOR/INIFTA  
+Univesidad Nacional de La Plata  
+La Plata-Argentina  
 
 ### Beca Inicial Agencia I+D+i (Between 08/2019 and 02/2023)
-- CEQUINOR/INIFTA
-- Univesidad Nacional de La Plata
-- La Plata-Argentina
+CEQUINOR/INIFTA  
+Univesidad Nacional de La Plata  
+La Plata-Argentina  
 
 ## Papers Published
 - Villegas J. Rousse, R. **Conformations of polyelectrolyte using cellular automata techniques**. Journal of Computational Methods in Science and Engineering. 12, (2012). pp 283-292
@@ -67,6 +68,6 @@
 - French: B1
 
 ## Thechnical Skills
-- General scripting: python, bash, rust.
-- Data analysis: python (sklearn), R (tidyverse)
-- Electronic Structure Calculations: Quantum Espresso, GAMESS US, Siesta, psi4, python (ase)
+- **Electronic Structure Calculations**: Quantum Espresso, GAMESS US, Siesta, psi4, python (ase)
+- **General scripting**: python, bash, rust.
+- **Data analysis**: python (sklearn), R (tidyverse)

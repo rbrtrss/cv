@@ -1,55 +1,72 @@
 # Roberto Rousse Romero
 
-## Información Personal
-- Teléfono: +54-9-2213081659
+## Contact Information
+- Phone: +54-9-2213081659
 - Email: roberto.rousse@gmail.com
 
-## Títulos
-### Magister en Química Aplicada (2012)
-- Mención Estudio de Materiales
-- Postgrado Interdisciplinario en Química Aplicada
+## Studies
+
+### Masters in Applied Chemistry, Materials Orientation 
+- Graduated March 2012
+- Postgrado Interdisciplianrion en Química Aplicada
 - Universidad de Los Andes
 - Mérida-Venezuela
-- Tesis: Modelo de autómata celular para hidrogeles polielectrolíticos, efectos del apantallamiento y del equilibrio de disociación. Aprobada con mención honorífica y recomendada para publicación. (Director Dr. Juan C. Villegas. Codirector Dr. Cristóbal Lárez)
 
-### Licenciado en Química (2005)
-- Distinción Cum Laude
+### Masters in Applied Chemistry, Materials Orientation 
+- Graduated March 2012
+- Postgrado Interdisciplianrion en Química Aplicada
 - Universidad de Los Andes
 - Mérida-Venezuela
-- Tesis: Efecto de las fuerzas de contorno efectivas en la dinámica estocástica disipativa de partículas en geometrías restringidas. Aprobada con méritos y recomendada para publicación. (Director Dr. Pedro J. Colmenares)
 
-## Experiencia docente
-### Ayudante Diplomado a Dedicación Simple (Física II) (Desde 09/2021)
-- Escuela Básica
-- Facultad de Ingeniería
-- Universidad Nacional de La Plata
+### Bachelor of Chemistry 
+- Graduated november 2005
+- Cum Laude Distinction
+- Universidad de Los Andes
+- Mérida-Venezuela
+
+## Teaching Experience
+### Teaching Assistant (Since 09/2021)
+- Optics and Electromagnetism
+- Facultad de Ingeniería, Escuela Básica
+- National University of La Plata
 - La Plata-Argentina
 
-### Profesor Instructor Ordinario a Dedicación Exclusiva (Fisicoquímica) (Desde 01/2016)
-- Departamento de Química
-- Facultad de Ciencias
-- Universidad de Los Andes
+### Assistant Professor  (Since 02/2015)
+- Physical Chemistry
+- Department of Chemistry
+- Faculty of Sciences
+- University of Los Andes
 - Mérida-Venezuela
 
-### Profesor Instructor Contratado a Dedicación Exclusiva (Fisicoquímica) (02/2015-01/2016)
-- Departamento de Química
-- Facultad de Ciencias
-- Universidad de Los Andes
+### Assistant Professor (Between 11/2012 and 02/2015)
+- General Chemistry
+- Facultad de Ingeniería, Escuela Básica
+- Universisdad de Los Andes
 - Mérida-Venezuela
 
-### Profesor Asistente Contratado a Dedicación Exclusiva (Química General) (11/2012-02/2015)
-- Escuela Básica
-- Facultad de Ingeniería
-- Universidad de Los Andes
-- Mérida-Venezuela
+## Scholarships
 
-## Becas
-### Beca Inicial Agencia (Desde 08/2019)
-- PICT 2017-1628
+### Beca finalización Conicet (Since 04/2023)
 - CEQUINOR/INIFTA
-- Universidad Nacional de La Plata
+- Univesidad Nacional de La Plata
 - La Plata-Argentina
 
-## Publicaciones
-- Villegas J. Rousse, R. Conformations of polyelectrolyte using cellular automata techniques. Journal of Computational Methods in Science and Engineering. 12, (2012). pp 283-292
-- Rousse R. Villegas J. y Lárez C. Uso de NetLogo como un entorno multiagente para el desarrollo de modelos de polielectrolitos. Ciencia e Ingeniería Neogranadina, 23(2), (2013). pp 77-99
+### Beca Inicial Agencia I+D+i (Between 08/2019 and 02/2023)
+- CEQUINOR/INIFTA
+- Univesidad Nacional de La Plata
+- La Plata-Argentina
+
+## Papers Published
+- Villegas J. Rousse, R. **Conformations of polyelectrolyte using cellular automata techniques**. Journal of Computational Methods in Science and Engineering. 12, (2012). pp 283-292
+- Rousse R. Villegas J. y Lárez C. **Uso de NetLogo como un entorno multiagente para el desarrollo de modelos de polielectrolitos**. Ciencia e Ingeniería. Edición especial: "Jornadas de Modelado y Simulación". (2011). pp 127-134
+- Colmenares P. Rousse, R. **Effective boundary forces for several geometries in dissipative particle dynamics**. Physica A. 367. (2006). pp 93-103.
+
+## Languages
+- Spanish: native
+- English: C2
+- French: B1
+
+## Thechnical Skills
+- General scripting: python, bash, rust.
+- Data analysis: python (sklearn), R (tidyverse)
+- Electronic Structure Calculations: Quantum Espresso, GAMESS US, Siesta, psi4, python (ase)

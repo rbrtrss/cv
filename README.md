@@ -1,8 +1,6 @@
 # Roberto Rousse Romero
 
 ## Información Personal
-- DNI: 96014739
-- Dirección Calle 6, 809, Depto 1B. La Plata. CP 1900
 - Teléfono: +54-9-2213081659
 - Email: roberto.rousse@gmail.com
 
